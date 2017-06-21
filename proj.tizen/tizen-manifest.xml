@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.lm.MVCEx" version="1.0.0">
+    <ui-application appid="com.lm.MVCEx" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>MVCEx</label>
+        <icon>MVCEx.png</icon>
+    </ui-application>
+</manifest>
